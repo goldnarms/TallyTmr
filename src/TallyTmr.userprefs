@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="TallyTmr.Android\TallyTmr.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" PreferredExecutionTarget="Android.AVD_GalaxyNexus_ToolsForApacheCordova" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TallyTmr.Android\MainActivity.cs">
+    <Files>
+      <File FileName="TallyTmr.Android\MainActivity.cs" Line="7" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TallyTmr.Android AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
