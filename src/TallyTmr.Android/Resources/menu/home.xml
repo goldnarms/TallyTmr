@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<menu xmlns:android="http://schemas.android.com/apk/res/android" 
+	  xmlns:local="http://schemas.android.com/apk/res-auto">
+	 <item
+	      android:id="@+id/edit"
+	      android:icon="@drawable/ic_action_content_create"
+	      local:showAsAction="ifRoom"
+	      android:title="Edit" />
+	 <item
+	      android:id="@+id/decrease"
+	      local:showAsAction="never"
+	      android:title="Decrease" />
+       <item
+	      android:id="@+id/flip"
+	      local:showAsAction="never"
+	      android:title="Flip" />
+  	 <item
+	      android:id="@+id/toggle_timer"
+	      android:icon="@drawable/ic_action_play"
+	      local:showAsAction="ifRoom"
+	      android:title="Start" />
+	 <item
+	      android:id="@+id/reset"
+	      android:icon="@drawable/ic_action_refresh"
+	      local:showAsAction="ifRoom"
+	      android:title="Reset" />
+       <item
+	      android:id="@+id/lock"
+	      local:showAsAction="never"
+	      android:title="Lock screen" />
+</menu>
